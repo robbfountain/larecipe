@@ -3,6 +3,32 @@
 All notable changes to `larecipe` will be documented in this file
 
 ---
+<a name="2.3.0"></a>
+# [2.3.0](https://github.com/saleem-hadad/larecipe/releases/tag/v2.3.0) (2020-03-09)
+
+### Enhancement & Fixes
+
+- Add support for Laravel 7 - ([#197](https://github.com/saleem-hadad/larecipe/pull/197))
+- Fix Laravel ^7.0.x compatibility (Symfony/process) - ([#202](https://github.com/saleem-hadad/larecipe/pull/202))
+- Allow remote asset URLs & empty favicon fix - ([#183](https://github.com/saleem-hadad/larecipe/pull/183))
+
+<a name="2.2.3"></a>
+# [2.2.3](https://github.com/saleem-hadad/larecipe/releases/tag/v2.2.3) (2020-01-21)
+
+### Enhancement & Fixes
+
+- Add support for PHP 7.4 - ([#189](https://github.com/saleem-hadad/larecipe/pull/189))
+
+<a name="2.2.1"></a>
+# [2.2.1](https://github.com/saleem-hadad/larecipe/releases/tag/v2.2.1) (2019-11-08)
+
+### Enhancement & Fixes
+
+- Adding middleware usage - ([#906da6c](https://github.com/saleem-hadad/larecipe/commit/906da6cd98ea7942558ce40f8022effe3191f913))
+- Use relative path to fonts folder - ([#b116594](https://github.com/saleem-hadad/larecipe/commit/b116594f8d239d3d7700b7b92659a8a36bdeef7f))
+- Remove base url, fixes header links - ([#d3b173d](https://github.com/saleem-hadad/larecipe/commit/d3b173deb4d0ff365de222e55225b84e40d63985))
+- Allow custom ordering of theme styles - ([#7b7dc0b](https://github.com/saleem-hadad/larecipe/commit/7b7dc0bfff1541dacfa76d0338fae9684a0b16b6))
+- Allow removing themes - ([#22dbb67](https://github.com/saleem-hadad/larecipe/commit/22dbb67dace9b850ff36aebd4628af5e958710f1))
 
 <a name="2.1.4"></a>
 # [2.1.4](https://github.com/saleem-hadad/larecipe/releases/tag/v2.1.4) (2019-05-18)

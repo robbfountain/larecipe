@@ -99,6 +99,8 @@ class Documentation
         
         $content = str_replace('"#', '"'.request()->getRequestUri().'#', $content);
 
+        $content = str_replace('"#', '"'.request()->getRequestUri().'#', $content);
+
         return $content;
     }
 
